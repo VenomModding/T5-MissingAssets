@@ -9,5 +9,10 @@ This pack is made to complete everything that the Black Ops Mod Tools has lacked
 # Contribution
 If you want to contribute to the T5-MissingAssets pack, we would appreciate you doing a pull request. We're always glad to see people helping out.
 
+# Credits
+SE2Dev, Nukem9 - Creators of LinkerMod
+PamojoYT - Ripped assets from DLC maps when I couldn't.
+Venom, The Godfather/dsm_ribbitpoison - Ripped assets from Kino Der Toten and Five
+
 # Discord
 [Venom's Mod Warehouse, the home of LinkerMod Enhanced and T5-MissingAssets](https://discord.gg/NSsYXecFxf)
