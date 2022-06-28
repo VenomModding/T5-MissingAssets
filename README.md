@@ -14,6 +14,7 @@ If you want to contribute to the T5-MissingAssets pack, we would appreciate you 
 - PamojoYT - Ripped assets from DLC maps when I couldn't.
 - Venom, The Godfather/dsm_ribbitpoison - Ripped assets from Kino Der Toten and Five
 - DTZxPorter/Sobalula - Wraith Archon/Greyhound, respectfully.
+- Treyarch & Activision - Developers/Publishers of the Black Ops Mod Tools on PC
 
 # Discord
 [Venom's Mod Warehouse, the home of LinkerMod Enhanced and T5-MissingAssets](https://discord.gg/NSsYXecFxf)
