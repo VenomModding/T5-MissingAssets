@@ -35,7 +35,10 @@ main()
 	level.zombiemode_using_marathon_perk = true;
 	level.zombiemode_using_divetonuke_perk = true;
 	level.zombiemode_using_deadshot_perk = true;
-	level.zombiemode_using_additionalprimaryweapon_perk = true; 
+	level.zombiemode_using_additionalprimaryweapon_perk = true;
+	level.zombiemode_precache_player_model_override = ::precache_player_model_override;
+	level.zombiemode_give_player_model_override = ::give_player_model_override;
+	level.zombiemode_player_set_viewmodel_override = ::player_set_viewmodel_override;
 	
 	level.zombie_anim_override = maps\template::anim_override_func;
 
