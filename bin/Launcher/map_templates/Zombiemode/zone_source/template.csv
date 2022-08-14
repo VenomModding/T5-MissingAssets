@@ -20,6 +20,7 @@ rawfile,maps/_zombiemode_timer.gsc
 rawfile,maps/template.gsc
 rawfile,maps/template_fx.gsc
 rawfile,maps/template_amb.gsc
+rawfile,maps/createart/template_art.gsc
 //rawfile,maps/createfx/template_fx.gsc
 
 rawfile,maps/zombie_theater_quad.gsc
@@ -141,7 +142,7 @@ xmodel,viewmodel_vtn_nva_standard_arms
 xmodel,viewmodel_usa_hazmat_arms
 
 // character 3rd person
-mptype,player_t5_zm_theater,
+mptype,player_t5_zm_theater
 xmodel,lights_hang_single
 xmodel,lights_hang_single_on_nonflkr
 
