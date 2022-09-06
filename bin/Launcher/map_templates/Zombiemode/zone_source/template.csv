@@ -100,6 +100,7 @@ fx,maps/zombie/fx_zombie_dog_lightning_buildup
 fx,env/electrical/fx_elec_wire_spark_burst
 
 // Fog, Sky, and vision
+rawfile,maps/createart/template_art.gsc
 rawfile,vision/template.vision
 rawfile,vision/zombie_sumpf_dogs.vision
 
