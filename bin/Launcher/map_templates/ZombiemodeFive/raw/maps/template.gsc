@@ -570,14 +570,14 @@ give_player_model_override( entity_num )
 			character\c_usa_nixon_zt::main();// Richard Nixon
 			break;
 		case 1:
-			character\c_cub_castro_zt::main();// Fidel Castro
+			character\c_usa_mcnamara_zt::main();// Robert McNamara
 			break;
 		case 2:
 			character\c_usa_jfk_zt::main();// John Fitzgerald Kennedy
 			break;
 		case 3:
-			character\c_usa_mcnamara_zt::main();// Robert McNamara
-			break;	
+			character\c_cub_castro_zt::main();// Fidel Castro
+			break;
 	}
 }
 
@@ -590,7 +590,7 @@ player_set_viewmodel_override( entity_num )
 			self SetViewModel( "viewmodel_usa_pow_arms" );
 			break;
 		case 1:
-			// Fidel Castro
+			// Robert McNamara
 			self SetViewModel( "viewmodel_usa_pow_arms" );
 			break;
 		case 2:
@@ -598,7 +598,7 @@ player_set_viewmodel_override( entity_num )
 			self SetViewModel( "viewmodel_usa_pow_arms" );
 			break;
 		case 3:
-			// Robert McNamara
+			// Fidel Castro
 			self SetViewModel( "viewmodel_usa_pow_arms" );
 			break;		
 	}

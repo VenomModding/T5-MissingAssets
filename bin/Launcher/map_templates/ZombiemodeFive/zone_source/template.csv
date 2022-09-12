@@ -14,7 +14,7 @@ include,zombiemode_perk_divetonuke
 include,zombiemode_perk_marathon
 include,zombiemode_perk_additionalprimaryweapon
 
-sound,zmb_pentagon
+sound,template
 
 rawfile,maps/_zombiemode_timer.gsc
 rawfile,maps/template.gsc
