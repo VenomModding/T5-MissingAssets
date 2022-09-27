@@ -106,19 +106,6 @@ anim_override_func()
 	level.scr_anim["zombie"]["walk7"] 	= %ai_zombie_walk_v8;	//goose step walk
 }
 
-
-
-
-//*****************************************************************************
-
-
-theater_playanim( animname )
-{
-	self UseAnimTree(#animtree);
-	self animscripted(animname + "_done", self.origin, self.angles, level.scr_anim[animname],"normal", undefined, 2.0  );
-}
-
-
 //*****************************************************************************
 // WEAPON FUNCTIONS
 //

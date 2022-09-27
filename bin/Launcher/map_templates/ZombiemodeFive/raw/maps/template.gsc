@@ -96,16 +96,6 @@ main()
 }
 
 //*****************************************************************************
-
-
-theater_playanim( animname )
-{
-	self UseAnimTree(#animtree);
-	self animscripted(animname + "_done", self.origin, self.angles, level.scr_anim[animname],"normal", undefined, 2.0  );
-}
-
-
-//*****************************************************************************
 // WEAPON FUNCTIONS
 //
 // Include the weapons that are only in your level so that the cost/hints are accurate
