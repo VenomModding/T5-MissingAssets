@@ -4,23 +4,19 @@ iwmap 4
 // entity 0
 {
 "maxlightgridcolors" "32000"
-"exposure" "1.4"
+"exposure" "1.0"
 "treescatteramount" "0.0"
 "treescatterintensity" "0.0"
-"sunshadowintensity" "5.0"
-"_sunshadowcolor" "0.7176 0.7450 0.8117"
-"sunlight" "13"
-"suncolor" "1 0.831 0.71"
-"ambientintensity" "0.7"
-"_ambientcolor" "0.78 0.78 0.78"
+"sunshadowintensity" "7"
+"_sunshadowcolor" "0.709804 0.803922 0.984314"
+"sunlight" "14"
+"suncolor" "0.996078 0.976471 0.886275"
+"ambientintensity" "0.1"
+"_ambientcolor" "0.803922 0.815686 0.988235"
 "newsun" "1"
-"sundirection" "-152.86 -10 0"
-"skyboxmodel" "skybox_mp_hotel"
+"skyboxmodel" "skybox_mp_nuked"
+"sundirection" "-37 221 0"
 "classname" "worldspawn"
-"sky_intensity_angle0" "90"
-"sky_intensity_angle1" "-30"
-"sky_intensity_factor0" "1.5"
-"sky_intensity_factor1" "2.5"
 // brush 0
 {
  ( 944 640 0 ) ( -928 640 0 ) ( -928 528 0 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 -64 0 0 0
