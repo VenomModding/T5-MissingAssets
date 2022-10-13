@@ -24,4 +24,4 @@ If you want to contribute to the T5-MissingAssets pack, we would appreciate you 
 - Mythical - Included this on his Black Ops Mod Tools Installer!
 
 # Discord
-[Venom's Mod Warehouse, the home of LinkerMod Enhanced and T5-MissingAssets](https://ouo.io/QK00XQ)
+[Venom Modding, the home of T5-MissingAssets](https://ouo.io/QK00XQ)
