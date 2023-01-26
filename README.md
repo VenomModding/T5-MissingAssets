@@ -18,7 +18,7 @@ If you want to contribute to the T5-MissingAssets pack, we would appreciate you 
 # Credits
 - SE2Dev, Nukem9 - Creators of LinkerMod
 - PamojoYT - Ripped assets from DLC maps when I couldn't.
-- Venom, The Godfather/dsm_ribbitpoison - Ripped assets from Kino Der Toten and Five
+- RealVenom - Ripped assets from Kino Der Toten and Five
 - DTZxPorter/Sobalula - Wraith Archon/Greyhound, respectfully.
 - Treyarch & Activision - Developers/Publishers of the Black Ops Mod Tools on PC
 - Mythical - Included this on his Black Ops Mod Tools Installer!
