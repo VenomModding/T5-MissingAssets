@@ -22,6 +22,7 @@ If you want to contribute to the T5-MissingAssets pack, we would appreciate you 
 - DTZxPorter/Sobalula - Wraith Archon/Greyhound, respectfully.
 - Treyarch & Activision - Developers/Publishers of the Black Ops Mod Tools on PC
 - Mythical - Included this on his Black Ops Mod Tools Installer!
+- FaberTheCatgirl - Early Additions to T5-MissingAssets and T5-ExtraAssets
 
 # Discord
 [Venom Modding, the home of T5-MissingAssets](https://ouo.io/QK00XQ)
